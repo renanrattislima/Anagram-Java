@@ -117,4 +117,4 @@ src
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Renan Lima.
